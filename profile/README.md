@@ -34,8 +34,4 @@ Have questions or inquiries? Feel free to chat with us directly at **+2347025994
 
 Join us on this exciting cryptocurrency journey, and let Flincap be your gateway to success in the world of crypto trading.
 
-### Tags: #cryptocurrency #cryptoexchange
-
----
-
-*Note: The phone number and email provided in this readme are for illustrative purposes and should be replaced with the actual contact details of the Flincap team.*
+#cryptocurrency #cryptoexchange
