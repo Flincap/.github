@@ -30,7 +30,7 @@ To learn more about what Flincap can do for you, follow us on GitHub and explore
 
 ## Get in Touch
 
-Have questions or inquiries? Feel free to chat with us directly at **+2347025994794** or send us an email at **luz@venturage.com**. We'll be thrilled to assist you.
+Have questions or inquiries? Feel free to chat with us directly at **++1(725)710-9345** or send us an email at **sales@flincap.com**. We'll be thrilled to assist you.
 
 Join us on this exciting cryptocurrency journey, and let Flincap be your gateway to success in the world of crypto trading.
 
