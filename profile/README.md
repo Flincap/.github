@@ -1,10 +1,11 @@
-# Flincap - Your Whitelabel Crypto Exchange Solution
+# Flincap - Platform for OTC crypto exchangers
 
-Welcome to Flincap, your one-stop solution for launching your very own Whitelabel Crypto Exchange in just 5 minutes! We understand the challenges and complexities involved in building a crypto exchange from scratch, and that's why we've taken care of it for you. With Flincap, you can now focus on what matters most - growing your business and providing exceptional crypto trading experiences to your users.
+Flincap is a platform for OTC crypto exchangers. We enable OTC crypto traders to create a standard crypto exchange in minutes. We do all the heavy lifting on the tech aspects so that the OTC guys can focus on the business aspects. 
 
 ## What is Flincap?
 
-Flincap is a leading Whitelabel Crypto Exchange platform that empowers entrepreneurs, businesses, and enthusiasts to seamlessly integrate and launch their custom cryptocurrency exchange with ease. We provide you with a robust and fully functional exchange infrastructure, so you don't have to worry about the technical hurdles, costs, or time-consuming development processes. Whether you're an established financial institution, a startup, or an individual looking to venture into the world of cryptocurrencies, Flincap has got you covered.
+Flincap provides services that enables OTC builders to have a standard crypto exchange up and running within minutes, reliable fiat payouts in multiple currencies that can be automated, payment APIs that can be easily integrated, and secure digital asset custody that enables users to store and manage their digital assets safely. 
+We provide all the necessary maintenance and support for our tech infrastructure so that OTC crypto exchangers can work their magic on the business aspects.
 
 ## Why Choose Flincap?
 
@@ -30,7 +31,7 @@ To learn more about what Flincap can do for you, follow us on GitHub and explore
 
 ## Get in Touch
 
-Have questions or inquiries? Feel free to chat with us directly at **+1(725)710-9345** or send us an email at **sales@flincap.com**. We'll be thrilled to assist you.
+Have questions or inquiries? Feel free to chat with us directly at **+1(725)710-9345** or send us an email at **hi@flincap.com**. We'll be thrilled to assist you.
 
 Join us on this exciting cryptocurrency journey, and let Flincap be your gateway to success in the world of crypto trading.
 
